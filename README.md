@@ -19,13 +19,14 @@ A simple task manager built with HTML, CSS, and vanilla JavaScript. Add, delete,
 2. Open `index.html` in your browser
 
 ## Project Structure
-
+```
 vanilla-js-todo-app/
 ├── index.html
 ├── style.css
 ├── script.js
 ├── screenshot.png
 └── README.md
+```
 
 ## What I Learned
 
