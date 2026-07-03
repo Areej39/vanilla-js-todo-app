@@ -182,3 +182,55 @@ h1 {
   border-color: #4CAF50;
 }
 
+@media (max-width: 768px) {
+
+    .container {
+        width: 95%;
+        padding: 20px;
+    }
+
+    .input-box {
+        flex-direction: column;
+    }
+
+    #addBtn {
+        width: 100%;
+    }
+
+    #tasklist li {
+        flex-wrap: wrap;
+    }
+
+    .footer {
+        flex-direction: column;
+        gap: 10px;
+        text-align: center;
+    }
+
+    .filters {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width: 480px) {
+
+    body {
+        padding: 15px;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    .deleteBtn,
+    .editBtn {
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+
+    #taskInput,
+    #addBtn {
+        font-size: 14px;
+    }
+}
