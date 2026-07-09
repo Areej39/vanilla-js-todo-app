@@ -15,6 +15,10 @@ A simple task manager built with HTML, CSS, and vanilla JavaScript. Add, delete,
 
 ![Todo App Screenshot](screenshot.png)
 
+## Live Demo
+
+https://areej39.github.io/vanilla-js-todo-app/
+
 ## How to Run
 
 1. Clone this repo
